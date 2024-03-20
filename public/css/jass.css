@@ -420,13 +420,12 @@ button {
 }
 
 a {
-  color: #07aefc;
+  color: #ffffff;
   text-decoration: none;
 }
 
 a:hover {
-  color: #6ecbf7;
-  text-decoration: underline;
+  color: #cecece;
 }
 
 /* HEIGHT / WIDTH UTILS */

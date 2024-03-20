@@ -4,6 +4,8 @@
 :root{
   --primary: #0d338d;
   --secondary: #dadada;
+  --dark: #091a42;
+  --tertiary: #788585;
 }
 /* Button Styles */
 .button {
@@ -52,6 +54,7 @@
   display: inline-block;
   border-radius: 5px;
   color: var(--primary);
+  filter: drop-shadow(12px 10px 4px #4444dd);
 }
 
 /* Post Styles */
